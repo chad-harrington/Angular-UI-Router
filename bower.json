@@ -1,0 +1,16 @@
+{
+    "author": {
+        "name": "Chad Harrington"
+    },
+    "name": "angular-ui-router",
+    "keywords": [
+        "angular",
+        "angular-ui-router"
+    ],
+    "description": "A copy of angular-ui-router v.0.2.13 - with minor edits",
+    "version": "0.2.13",
+    "main": ["./angular-ui-router.js"],
+    "dependencies": {
+        "angular": ">=1.2 <1.3.0"
+    }
+}
